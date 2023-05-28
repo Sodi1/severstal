@@ -8,6 +8,6 @@
 
 **Frontend** - vue.js
 
-**analytics** - ноутбуки jupiter с решением задач по анализу данных, python3
+**analytics** - ноутбуки jupiter, python3
 
-**api** - python3, fastapi,redis, rabbitMQ, SQLalchemy
+**predict-api** - python3, обученные модельки, fastapi,redis, rabbitMQ, SQLalchemy
